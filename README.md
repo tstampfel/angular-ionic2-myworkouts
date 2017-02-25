@@ -2,7 +2,6 @@
 
 1. npm install
 
-
 2.ionic serve
 
 You will need to make your account at MLAB to receive some values.
